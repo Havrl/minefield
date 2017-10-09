@@ -1,0 +1,6 @@
+{
+  "startPos": { "x": 0, "y": 3, "dir": "North" },
+  "exitPos": { "x": 3, "y": 3 },
+  "minePos": [ { "x": 1, "y": 2 }, { "x": 2, "y": 2 } ],
+  "boardSize": { "n": 4, "m": 4 }
+}
