@@ -1,13 +1,17 @@
-### How to run
-this app requires node.
+Minefield app
+=======================
 
-#### Setup
-from command line run: npm install
+Note: this app requires node.
 
+## Instructions
+1. Open terminal or command window
+2. `$ git clone git@github.com:Havrl/minefield.git my-app`
+3. `$ cd my-app`
+4. `$ npm install`
 
-#### To run
-from command line run: node app/index.js
+## Running 
+1. `$ node app/index.js`
 
-#### To test
-from command line run: npm test
+## Running Tests
+1. `$ npm test`
  
